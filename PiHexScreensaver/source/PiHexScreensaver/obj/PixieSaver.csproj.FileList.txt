@@ -1,0 +1,7 @@
+bin\Debug\PixieSaver.exe
+bin\Debug\PixieSaver.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\PixieSaver.Properties.Resources.resources
+obj\Debug\PixieSaver.csproj.GenerateResource.Cache
+obj\Debug\PixieSaver.exe
+obj\Debug\PixieSaver.pdb
