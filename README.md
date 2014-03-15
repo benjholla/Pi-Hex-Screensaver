@@ -3,12 +3,15 @@ Pi Hex Screensaver
 A screensaver that resumes computations of Pi in Hexadecimal with each screensaver session
 
 # Overview
-The Pi Hex Screensaver is Windows screensaver that computes Pi in hexadecimal using the BBP algorithm.  The beauty of the BBP formula is that the nth digit of Pi can be calculated fairly rapidly without having to calculate the previous digits up to the nth digit.  Using this algorithm allows the screensaver to resume calculating Pi from where it left off on a previous screensaver session.  A C implementation of David H. Bailey's algorithm was ported to C# to make this program possible.See David H. Bailey's piqpr8.c implementation at [http://www.experimentalmath.info/bbp-codes/](http://www.experimentalmath.info/bbp-codes/)
+The Pi Hex Screensaver is Windows screensaver that computes Pi in hexadecimal using the BBP algorithm.  The beauty of the BBP formula is that the nth digit of Pi can be calculated fairly rapidly without having to calculate the previous digits up to the nth digit.  Using this algorithm allows the screensaver to resume calculating Pi from where it left off on a previous screensaver session.  A C implementation of David H. Bailey's algorithm was ported to C# to make this program possible.
 
-David H. Bailey's work on Pi [http://crd.lbl.gov/~dhbailey/pi/](http://crd.lbl.gov/~dhbailey/pi/)
+See David H. Bailey's piqpr8.c implementation at [http://www.experimentalmath.info/bbp-codes/](http://www.experimentalmath.info/bbp-codes/)
+
+David H. Bailey's work on Pi [http://www.davidhbailey.com/pi/](http://www.davidhbailey.com/pi/)
 
 Read more about the [BBP algorithm](./supporting_files/bbp-alg.pdf)
-Note: This is some old code I wrote when I was first learning C#, which I am re-releasing today in honor of Pi day (March 14th).
+
+Note: This is some old code I wrote when I was first learning C#, which I am re-releasing today in honor of Pi day (March 14th).
 
 # Features
 The Pi Hex Screensaver features:
